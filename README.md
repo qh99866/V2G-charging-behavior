@@ -4,7 +4,7 @@ Replication code for the manuscript:
 
 > **Vehicle-to-grid discharge reshapes electric vehicle charging behavior**  
 >
-> **Authors:** Bo Wang, Qianhui Liu, Zhaohua Wang, Pengfei Liu, Zhaosheng Zhang, Peng Liu, Haixu Yang, Nana Deng, Heqi Wang, and Xiaoli Han  
+> **Authors:** Bo Wang, Qianhui Liu, Zhaohua Wang, Pengfei Liu, Peng Liu, Zhaosheng Zhang, Peng Liu, Haixu Yang, Nana Deng, Heqi Wang, and Xiaoli Han  
 >
 > **Corresponding authors:** Zhaohua Wang, Pengfei Liu, and Zhaosheng Zhang
 
