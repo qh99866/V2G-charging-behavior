@@ -176,14 +176,15 @@ permitted under the applicable data-use agreement.
 
 ## Authors and affiliations
 
-**Bo Wang**<sup>a,b,c</sup>, **Qianhui Liu**<sup>a,b,c</sup>, **Zhaohua Wang**<sup>b,c,d,*</sup>, **Pengfei Liu**<sup>e,*</sup>, **Zhaosheng Zhang**<sup>f,*</sup>, **Peng Liu**<sup>f</sup>, **Haixu Yang**<sup>f</sup>, **Nana Deng**<sup>b,c,d</sup>, **Heqi Wang**<sup>a,b,c</sup>, and **Xiaoli Han**<sup>a,b,c</sup>
+**Bo Wang**<sup>a,f,g</sup>, **Qianhui Liu**<sup>a,f,g</sup>, **Zhaohua Wang**<sup>b,f,g,*</sup>, **Pengfei Liu**<sup>c,d,*</sup>, **Peng Liu**<sup>d</sup>, **Zhaosheng Zhang**<sup>e,*</sup>, **Peng Liu**<sup>e</sup>, **Haixu Yang**<sup>e</sup>, **Nana Deng**<sup>b,f,g</sup>, **Heqi Wang**<sup>a,f,g</sup>, and **Xiaoli Han**<sup>a,f,g</sup>
 
 <sup>a</sup> School of Management, Beijing Institute of Technology, Beijing 100081, China  
-<sup>b</sup> Digital Economy and Policy Intelligentization Key Laboratory of Ministry of Industry and Information Technology, Beijing 100081, China  
-<sup>c</sup> Research Center for Sustainable Development & Intelligent Decision, Beijing Institute of Technology, Beijing 100081, China  
-<sup>d</sup> School of Economics, Beijing Institute of Technology, Beijing 100081, China  
-<sup>e</sup> Department of Environmental and Natural Resource Economics, University of Rhode Island, USA  
-<sup>f</sup> National Engineering Research Center of Electric Vehicles, Beijing Institute of Technology, Beijing 100081, China
+<sup>b</sup> School of Economics, Beijing Institute of Technology, Beijing 100081, China  
+<sup>c</sup> Department of Environmental and Natural Resource Economics, University of Rhode Island, USA  
+<sup>d</sup> MoE Key Laboratory of Complex System Analysis and Management Decision, School of Economics and Management, Beihang University, Beijing 100191, China  
+<sup>e</sup> National Engineering Research Center of Electric Vehicles, Beijing Institute of Technology, Beijing 100081, China  
+<sup>f</sup> Digital Economy and Policy Intelligentization Key Laboratory of Ministry of Industry and Information Technology, Beijing 100081, China  
+<sup>g</sup> Research Center for Sustainable Development & Intelligent Decision, Beijing Institute of Technology, Beijing 100081, China
 
 <sup>*</sup> **Corresponding authors**
 
