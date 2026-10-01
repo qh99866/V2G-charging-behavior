@@ -95,7 +95,7 @@ data/private/analysis_data.dta
 For example:
 
 ```stata
-cd "D:/path/to/V2G_DID_GitHub_v3"
+cd "D:/path/to/V2G-charging-behavior"
 ```
 
 4. Run the main analysis:
@@ -173,18 +173,6 @@ Any aggregate tables, figures, or derived source-data files intended for public
 release should be added deliberately only after confirming that distribution is
 permitted under the applicable data-use agreement.
 
-## Citation
-
-A `CITATION.cff.template` file is included. After the paper title, author names,
-publication details, and repository URL are finalized, rename it to
-`CITATION.cff` and replace the placeholders.
-
-## License
-
-No open-source license has been selected in this draft. See `LICENSE_NOTE.md`
-before public release. The appropriate license should be confirmed with the
-authors/institution and should be compatible with any third-party code used in
-the repository.
 
 ## Authors and affiliations
 
