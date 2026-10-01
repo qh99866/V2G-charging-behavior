@@ -14,21 +14,17 @@ Supplementary Information (SI) robustness analyses.
 ## Repository contents
 
 ```text
-V2G_DID_GitHub_v3/
+V2G-charging-behavior/
 ├── README.md
 ├── main_do.do
 ├── SI.do
 ├── .gitignore
-├── CITATION.cff.template
-├── LICENSE_NOTE.md
-├── PRE_RELEASE_CHECKLIST.md
 ├── data/
 │   ├── README.md
 │   └── private/
 │       └── .gitkeep
 ├── source_data/
-│   ├── README.md
-│   └── .gitkeep
+│   └── README.md
 └── results/
     ├── main/
     │   └── .gitkeep
