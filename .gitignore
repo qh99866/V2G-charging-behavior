@@ -1,0 +1,19 @@
+# Restricted vehicle-level data
+data/private/*
+!data/private/.gitkeep
+
+# Stata temporary and backup files
+*.tmp
+*.bak
+*.smcl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Generated analysis outputs
+results/main/*
+!results/main/.gitkeep
+
+results/SI/*
+!results/SI/.gitkeep
